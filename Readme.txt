@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Kelompok 3
 
-Theme Name: Medilab
-Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+183140914111059 - mohammad egi setyo novanto
+183140914111069 - octavia eka retno febriyana
+183140914111081 - denny prasetyo inkiriwang
